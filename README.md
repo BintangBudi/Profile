@@ -34,7 +34,7 @@ A WebGIS app that allows users to draw, edit, and save polylines using Leaflet.j
 An NLP-powered chatbot using Deep Learning to give fashion suggestions based on weather data and user preferences.  
 🔗 [View Project Repository](https://github.com/BintangBudi/Fasrecon_App)
 
-### 🎓 Menyelesaikan Permasalahan Institusi Pendidikan
+### 🎓 Resolving Educational Institution Problems
 A data analysis and dashboard project that identifies key problems in the education sector.
 🔗 [View Project Repository](https://github.com/BintangBudi/Menyelesaikan-Permasalahan-Institusi-Pendidikan)
 
