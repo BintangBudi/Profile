@@ -36,7 +36,7 @@ An NLP-powered chatbot using Deep Learning to give fashion suggestions based on 
 
 ### 📊 Sentiment Analysis on Edlink App
 Used Random Forest and data from Google Play Store reviews to analyze user sentiments toward the Sevima Edlink app.  
-🔗 [View Project Repository](https://github.com/bintangbudi/edlink-sentiment-analysis)
+🔗 [View Project Repository](https://github.com/BintangBudi/SentimentAnalysisOnEdlinkApp)
 
 ---
 
