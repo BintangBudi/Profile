@@ -38,6 +38,10 @@ An NLP-powered chatbot using Deep Learning to give fashion suggestions based on 
 A data analysis and dashboard project that identifies key problems in the education sector.
 🔗 [View Project Repository](https://github.com/BintangBudi/Menyelesaikan-Permasalahan-Institusi-Pendidikan)
 
+### 🛍️ Fashion Studio Web Scraper & Data Pipeline
+This project implements an automated **ETL pipeline** that scrapes product data from the [Fashion Studio](https://fashion-studio.dicoding.dev/) website, processes it, and loads it.
+🔗 [View Project Repository](https://github.com/BintangBudi/Building-Simple-ETL-Pipeline)
+
 ### 📊 Sentiment Analysis on Edlink App
 Used Random Forest and data from Google Play Store reviews to analyze user sentiments toward the Sevima Edlink app.  
 🔗 [View Project Repository](https://github.com/BintangBudi/SentimentAnalysisOnEdlinkApp)
