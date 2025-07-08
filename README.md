@@ -24,15 +24,15 @@
 
 ### 🧠 Child Nutritional Status & Stunting Detection API
 A REST API using Support Vector Machine (SVM) to detect child stunting and nutritional status based on WHO growth chart references.  
-🔗 [View Project Repository](https://github.com/bintangbudi/child-nutritional-status-api)
+🔗 [View Project Repository](https://github.com/BintangBudi/Deteksi-Stunting)
 
 ### 🗺️ WebGIS with Leaflet & Flask
 A WebGIS app that allows users to draw, edit, and save polylines using Leaflet.js, Flask backend, and MySQL database.  
-🔗 [View Project Repository](https://github.com/bintangbudi/webgis-leaflet-flask)
+🔗 [View Project Repository](https://github.com/BintangBudi/webgis_multi_geometry)
 
 ### 🤖 Fashion Recommendation Chatbot
-An NLP-powered chatbot using BERT to give fashion suggestions based on weather data and user preferences.  
-🔗 [View Project Repository](https://github.com/bintangbudi/fashion-chatbot-nlp)
+An NLP-powered chatbot using Deep Learning to give fashion suggestions based on weather data and user preferences.  
+🔗 [View Project Repository](https://github.com/BintangBudi/Fasrecon_App)
 
 ### 📊 Sentiment Analysis on Edlink App
 Used Random Forest and data from Google Play Store reviews to analyze user sentiments toward the Sevima Edlink app.  
