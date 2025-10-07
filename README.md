@@ -22,10 +22,9 @@
 
 ## 🚀 Project Portfolio
 
-###🔎 AI Powered Skill Gap Analyst
- A multi-agent system designed to act as an intelligent assistant for a technical recruiter. It analyzes a candidate's CV against current market demands for a specific role (e.g., "Senior AI Engineer")
+### 🔎 AI-Powered Skill Gap Analyst
+A multi-agent system designed to act as an intelligent assistant for a technical recruiter. It analyzes a candidate's CV against current market demands for a specific role.
 🔗 [View Project Repository](https://github.com/BintangBudi/AI-Powered-Skill-Gap-Analyst)
-
 
 ### 🧠 Child Nutritional Status & Stunting Detection API
 A REST API using Support Vector Machine (SVM) to detect child stunting and nutritional status based on WHO growth chart references.  
