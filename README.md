@@ -46,6 +46,10 @@ A data analysis and dashboard project that identifies key problems in the educat
 This project implements an automated **ETL pipeline** that scrapes product data from the [Fashion Studio](https://fashion-studio.dicoding.dev/) website, processes it, and loads it.
 🔗 [View Project Repository](https://github.com/BintangBudi/Building-Simple-ETL-Pipeline)
 
+### 📊 Automated-Job-Search-Tracker-Pipeline
+An automated, data-driven pipeline that systematically monitors your job hunt
+🔗 [View Project Repository](https://github.com/BintangBudi/Automated-Job-Search-Tracker-Pipeline)
+
 ### 📊 Sentiment Analysis on Edlink App
 Used Random Forest and data from Google Play Store reviews to analyze user sentiments toward the Sevima Edlink app.  
 🔗 [View Project Repository](https://github.com/BintangBudi/SentimentAnalysisOnEdlinkApp)
